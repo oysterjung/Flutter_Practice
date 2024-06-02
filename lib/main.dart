@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:toonflix/widget/Button.dart';
 import 'package:toonflix/widget/currency_card.dart';
 
